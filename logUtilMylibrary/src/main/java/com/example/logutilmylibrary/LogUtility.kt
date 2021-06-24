@@ -8,6 +8,10 @@ class LogUtility {
         Log.d(Companion.TAG, message)
     }
 
+    fun error(message: String){
+        Log.e(TAG,message)
+    }
+
     companion object {
         private const val TAG = "LogUtility"
     }
