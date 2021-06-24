@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TechnoWay</string>
+    <string name="app_slogan">Techno Way Software</string>
+
+    <string name="sign_in">Sign in</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="wrong">Something went wrong!</string>
+    <string name="invalid_login">Invalid Username/Password!</string>
+    <string name="please_wait">Please wait</string>
+    <string name="connecting">Connecting to server...</string>
+    <string name="product_list_title">Products</string>
+    <string name="field_empty_error">Field cannot be empty!</string>
+
+</resources>

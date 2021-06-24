@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="splash_title_font">40sp</dimen>
+    <dimen name="splash_slogan_font">20sp</dimen>
+
+    <dimen name="splash_padding">50dp</dimen>
+
+    <dimen name="title_font">30sp</dimen>
+
+    <dimen name="layout_padding">20dp</dimen>
+    <dimen name="button_padding">5dp</dimen>
+    <dimen name="action_bar_title_font">20sp</dimen>
+    <dimen name="product_title_font">20sp</dimen>
+    <dimen name="text_body_font">15sp</dimen>
+    <dimen name="card_view_corner">16dp</dimen>
+    <dimen name="card_view_icon">100dp</dimen>
+    <dimen name="card_view_margin">4dp</dimen>
+    <dimen name="card_elevation">3dp</dimen>
+    <dimen name="spacing_large">100dp</dimen>
+    <dimen name="spacing_small">30dp</dimen>
+    <dimen name="spacing_medium">50dp</dimen>
+    <dimen name="spacing_tiny">15dp</dimen>
+    <dimen name="card_padding">8dp</dimen>
+    <dimen name="widget_spacing">5dp</dimen>
+</resources>
