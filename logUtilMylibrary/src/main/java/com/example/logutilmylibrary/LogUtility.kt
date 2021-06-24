@@ -8,8 +8,12 @@ class LogUtility {
         Log.d(Companion.TAG, message)
     }
 
-    fun error(message: String){
-        Log.e(TAG,message)
+    fun error(message: String) {
+        Log.e(TAG, message)
+    }
+
+    fun warning(message: String) {
+        Log.w(TAG, message)
     }
 
     companion object {
