@@ -1,3 +1,4 @@
 rootProject.name = "LoginUtilLibrary"
 include ':app'
 include ':logUtilMylibrary'
+include ':errorHandlerUtilLib'
